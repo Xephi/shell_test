@@ -90,7 +90,6 @@ else
 	"who"
 	"cat << EOF\ncoucou\nsalut\nEOF"
 	"touch toto ; touch test ; cat < toto | wc -l < test ; rm toto ; rm test"
-	"ls | > file_test echo test1 ; cat file_test ; rm -f file_test"
 	"ls ;; ls"
 	"ls ; | ls"
 	"cat /dev/urandom | ./mysh"
