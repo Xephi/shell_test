@@ -1,2 +1,4 @@
 # shell_test
-A shell script to test a sell. To see if it have the same out of tcsh
+== TEST THEM ALL ==
+
+Shell script to test mysh / 42sh
