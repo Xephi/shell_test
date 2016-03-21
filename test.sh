@@ -13,7 +13,7 @@ LS_BEGIN=`ls`
 
 if [ ! -x ./42sh ]; then
     if [ ! -x ./mysh ]; then
-	echo "Can't open your shell $SHELL"
+	echo "Can't open your mysh/42sh"
 	exit
     else
 	echo "Exécution en mode minishell2"
